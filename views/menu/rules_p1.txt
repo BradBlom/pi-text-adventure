@@ -1,0 +1,24 @@
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                              ┃
+┃                                                                              ┃
+┃  The rules are quite simple.                                                 ┃
+┃                                                                              ┃
+┃  You are a brilliant fox detective trying to solve a crime.                  ┃
+┃                                                                              ┃
+┃  Send instructions to the fox telling him what to do next.                   ┃
+┃    In the console window, type the word "send" along with some instructions  ┃
+┃                                                                              ┃
+┃  Examples:                                                                   ┃
+┃    - send go right                                                           ┃
+┃    - send go left                                                            ┃
+┃    - send open the cupboards                                                 ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                              ┃
+┃ Send "next" to continue                                                      ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

@@ -1,0 +1,24 @@
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                              ┃
+┃                                                                              ┃
+┃  At any time, send command "goto rules" to see these instructions again.     ┃
+┃                                                                              ┃
+┃  Other commands that may help at anytime are:                                ┃
+┃    - save <game_name> - saves your game                                      ┃
+┃    - load <game_name> - loads a previously saved game                        ┃
+┃    - goto main menu - goes to the main menu (make sure to save so you don't  ┃
+┃        lose progress)                                                        ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                              ┃
+┃ Send "next" to resume                                                        ┃
+┃                                                                              ┃
+┃                                                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛

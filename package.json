@@ -1,0 +1,26 @@
+{
+  "name": "pi-text-adventure",
+  "version": "1.0.0",
+  "description": "text-based adventure game hosted on a raspberry pi",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "sh test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradBlom/pi-text-adventure.git"
+  },
+  "author": "Brad Blomberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradBlom/pi-text-adventure/issues"
+  },
+  "homepage": "https://github.com/BradBlom/pi-text-adventure#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
